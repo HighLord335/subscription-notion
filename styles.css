@@ -113,6 +113,8 @@ footer{
         margin-right: 0px !important;
         margin-left: 0px !important;
         padding: 0px;
+         border-radius: 0px;
+      
       }
 
       .wrapper .content footer input{
